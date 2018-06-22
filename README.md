@@ -16,3 +16,7 @@ Git and Github by using them.
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+Just contribute for the hell of it.
+
+## Author Comments
