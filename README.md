@@ -20,3 +20,7 @@ Sample website with plenty of files for demos
 Just contribute for the hell of it.
 
 ## Author Comments
+
+## Copyright
+
+Copyright 2018 Mark Smolen
