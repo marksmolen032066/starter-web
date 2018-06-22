@@ -8,6 +8,9 @@ This is an introduction to Git and Github.
 
 ## Purpose
 
+The purpose of this repository is to facilitate learning about
+Git and Github by using them.
+
 ## Deploymnt
 
 Sample website with plenty of files for demos
